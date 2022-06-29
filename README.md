@@ -1,4 +1,4 @@
-# Blockchain Challenge
+# Token Gated Dex
 
 ## About
 
